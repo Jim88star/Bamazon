@@ -1,9 +1,3 @@
-# Bamazon
-
-
-
-bamazonDB.sql file:
-
 DROP DATABASE IF EXISTS bamazon;
 
 CREATE DATABASE bamazon;
